@@ -1,0 +1,10 @@
+variable,min_rmse,model
+Calories Burned,308.22501314812,holt exponential
+Steps,2837.4157079641304,holt linear
+Distance,1.501875529843554,holt linear
+Floors,31.229662,fbprophet
+Minutes Sedentary,77.30866499002349,holt exponential
+Minutes Lightly Active,33.256458974040875,holt linear
+Minutes Fairly Active,9.545006173761381,holt linear
+Minutes Very Active,30.821316691702666,holt linear
+Activity Calories,329.6436533808678,holt linear
